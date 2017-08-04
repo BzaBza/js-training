@@ -1,14 +1,10 @@
-/**
- * Created by ARTUR on 01.08.2017.
- */
     document.querySelector('.personName').style.display = 'none';
     document.querySelector('#hidePerson').onclick = function viewInfo() {
     document.querySelector('.personName').style.display = 'block';
     };
 //**if (viewInfo() == true) {
 //    document.querySelector('#hidePerson').onclick = function hideInfo() {
-//       document.querySelector('.personName').style.display = 'none';
-//};
+    //       document.querySelector('.personName').style.display = 'none';};
 
 
 for (let i = 0; i < 1; i++)document.querySelector('#btn').onclick = function character() {
